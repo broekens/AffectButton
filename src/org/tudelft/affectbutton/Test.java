@@ -12,7 +12,7 @@ public class Test extends Frame implements ActionListener, WindowListener{
 	private int nrOfClicks;
 	private RandomAccessFile raf;
 	private AffectButton ab; 
-	//this is the test app not part of the AffectButton library itself 
+	//this is the test app not part of the AffectButton library itself  
 	
 	public Test(String recordingLabel){
 		setLayout(null);
